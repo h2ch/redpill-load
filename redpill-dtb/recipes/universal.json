@@ -29,7 +29,7 @@
       "url": "https://github.com/h2ch/redpill-load/raw/develop/redpill-dtb/releases/model_ds920p.dtb",
       "sha256": "ae8abd80ca2fc8d7a5664d82404c050d759e01c9366f82d9287c5f62cce98b9d",
       "packed": false
-    },
+    }
   ],
   "scripts": {
     "on_boot": "install_rd.sh",
